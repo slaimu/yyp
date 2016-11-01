@@ -403,6 +403,7 @@ BRUSHED.toolTip = function(){
 BRUSHED.slider();
 
 $(document).ready(function(){
+    /*
 	Modernizr.load([
 	{
 		test: Modernizr.placeholder,
@@ -419,7 +420,7 @@ $(document).ready(function(){
 		}
 	}
 	]);
-	
+	*/
 	// Preload the page with jPreLoader
 	$('body').jpreLoader({
 		splashID: "#jSplash",
